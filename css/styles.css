@@ -81,6 +81,8 @@ a{
 .personal{
   width: 90%;
   margin-left: 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 
@@ -88,6 +90,8 @@ a{
 .interest_it{
   width: 90%;
   margin-left: 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 
@@ -95,18 +99,19 @@ a{
 .idealjob{
   margin-bottom: 5px;
   padding: 5px;
+  margin-left: 25px;
 }
 
 .jobpic{
   width: 30%;
   border-radius: 1%;
   float: left;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 
 }
 
 .jobt{
-float: right;
+
 }
 
 .skill11{
@@ -115,7 +120,7 @@ float: right;
 .jobtt{
   position: relative;
   left: 50px;
-  width: 90%;
+  width: 85%;
 }
 
 /* PERSONALITY TEST */
@@ -173,8 +178,40 @@ ul{
   left: 225px;
 }
 
+.projectd1{
+  position: relative;
+  right: 150px;
+}
+
+.projectd2{
+  position: relative;
+  right: 100px;
+}
+
+.projectd3{
+  position: relative;
+  right: 50px;
+}
+
+.projectd4{
+  position: relative;
+}
+
+.projectd5{
+  position: relative;
+  left: 50px;
+}
+
+.projectd6{
+  position: relative;
+  left: 100px;
+}
+
 .projida{
-  margin: 20px;
+  margin: 10px;
+  position: relative;
+  right: 120px;
+  text-decoration: underline;
 }
 
 .projectt{
